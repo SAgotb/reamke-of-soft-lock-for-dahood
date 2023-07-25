@@ -44,7 +44,7 @@ getgenv().Aiming = {
  
     VisibleCheck = true,
  
-    HitChance = 81,
+    HitChance = 76,
  
     Selected = nil,
     SelectedPart = nil,
